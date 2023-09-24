@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "Picture": "https://i.ibb.co/5YyPZyD/Clean-water-for-children.jpg",
+    "Title": "Clean water for children",
+    "Category": "Health",
+    "Category_bg": "rgba(0,82,255,0.2)",
+    "Card_bg": "rgba(0,82,255,0.15)",
+    "Text_color": "#0052FF",
+    "Description": "Access to clean water is a fundamental human right, and it's especially critical for children's health and well-being. Millions of children around the world lack access to safe and clean drinking water, putting them at risk of waterborne diseases and health complications. Your generous donation can change that. By supporting this cause, you're ensuring that children in underserved communities have access to clean water sources, improving their health and giving them a chance for a brighter future. Clean water means better health, education, and opportunities for these young lives. Join us in making a difference by providing clean water for children. Your support will have a lasting impact, ensuring that every child can thrive and grow in a healthy environment, free from the burdens of water-related illnesses. Together, we can create a world where no child has to worry about the quality of the water they drink. Join us in this mission to bring clean water to every child in need. Your support matters!",
+    "Donation_Amount": 250
+  },
+  {
+    "id": 2,
+    "Picture": "https://i.ibb.co/j3ynbDG/Empower-Education.webp",
+    "Title": "Empower Education",
+    "Category": "Education",
+    "Category_bg": "rgba(255,68,74,0.2)",
+    "Card_bg": "rgba(255,68,74,0.15)",
+    "Text_color": "#FF444A",
+    "Description": "Support quality education for underprivileged children and make a lasting impact. Your contribution will help us provide access to education for children who would otherwise be denied this opportunity. Education is a fundamental right, and every child deserves a chance to learn, grow, and achieve their dreams. With your help, we can create a brighter future for these young minds, giving them the tools they need to succeed in life. Together, we can make a lasting impact on the educational prospects of our community's most vulnerable children.",
+    "Donation_Amount": 150
+  },
+  {
+    "id": 3,
+    "Picture": "https://i.ibb.co/jMYPmfg/Clothe-the-Needy.webp",
+    "Title": "Clothe the Needy",
+    "Category": "Clothing",
+    "Category_bg": "rgba(121,194,63,0.2)",
+    "Card_bg": "rgba(121,194,63,0.15)",
+    "Text_color": "#79C23F",
+    "Description": "Provide warm clothing to those facing harsh winters and be a source of comfort. Winter can be incredibly challenging for individuals without access to proper clothing. Your generous donation will help us provide warm, durable clothing to those in need, ensuring they stay safe and comfortable during the cold months. By contributing to this cause, you're offering a lifeline to vulnerable individuals, helping them face the winter with dignity and warmth. Join us in making a difference in the lives of those struggling to stay warm.",
+    "Donation_Amount": 200
+  },
+  {
+    "id": 4,
+    "Picture": "https://i.ibb.co/4gJVDfP/Feed-the-Hungry.jpg",
+    "Title": "Feed the Hungry",
+    "Category": "Food",
+    "Category_bg": "rgba(248,113,71,0.2)",
+    "Card_bg": "rgba(248,113,71,0.15)",
+    "Text_color": "#F87147",
+    "Description": "Help eradicate hunger by providing nutritious meals and make a positive change. Hunger is a pressing issue in our community, and your support can make a significant impact. Your donation will enable us to provide nutritious meals to individuals and families in need, alleviating their hunger and improving their overall well-being. By contributing to this cause, you're helping us take a step closer to a hunger-free community. Join us in the fight against hunger and be a beacon of hope for those in need.",
+    "Donation_Amount": 250
+  },
+  {
+    "id": 5,
+    "Picture": "https://i.ibb.co/5BVVLZN/Support-Medical-Care.jpg",
+    "Title": "Support Medical Care",
+    "Category": "Health",
+    "Category_bg": "rgba(0,82,255,0.2)",
+    "Card_bg": "rgba(0,82,255,0.15)",
+    "Text_color": "#0052FF",
+    "Description": "Help provide essential medical care to those in need. Your generous donation will make a significant difference in the lives of individuals and families facing medical challenges. By contributing to this cause, you're ensuring that people receive the critical medical attention they deserve, regardless of their financial circumstances. Together, we can improve access to healthcare and bring hope to those struggling with health issues. Join us in making a positive impact on the health and well-being of our community. Your support matters!",
+    "Donation_Amount": 160
+  },
+  {
+    "id": 6,
+    "Picture": "https://i.ibb.co/w6dL6jL/Educational-Scholarships.jpg",
+    "Title": "Educational Scholarships",
+    "Category": "Education",
+    "Category_bg": "rgba(255,68,74,0.2)",
+    "Card_bg": "rgba(255,68,74,0.15)",
+    "Text_color": "#FF444A",
+    "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "Donation_Amount": 345
+  },
+  {
+    "id": 7,
+    "Picture": "https://i.ibb.co/CPkJvKj/Used-Clothing-Drive.jpg",
+    "Title": "Used Clothing Drive",
+    "Category": "Clothing",
+    "Category_bg": "rgba(121,194,63,0.2)",
+    "Card_bg": "rgba(121,194,63,0.15)",
+    "Text_color": "#79C23F",
+    "Description":"Support our Used Clothing Drive and be a part of a meaningful change. Your contribution to this initiative will help us collect, clean, and distribute gently used clothing to those in need. By participating in the Used Clothing Drive, you're not only decluttering your wardrobe but also making a positive impact on the lives of individuals who may not have access to warm clothing. Your donated clothes can bring warmth and comfort to someone facing the cold winter months without proper attire. Join us in spreading kindness, one garment at a time. Your support truly matters and can help us make a significant difference in our community. Together, we can ensure that everyone stays warm and dignified, no matter the season.",
+    "Donation_Amount": 350
+  },
+  {
+    "id": 8,
+    "Picture": "https://i.ibb.co/xjhc7W5/Nutrition-for-Everyone.webp",
+    "Title": "Nutrition for Everyone",
+    "Category": "Food",
+    "Category_bg": "rgba(248,113,71,0.2)",
+    "Card_bg": "rgba(248,113,71,0.15)",
+    "Text_color": "#F87147",
+    "Description":"Help us ensure access to nutritious food for everyone in our community, regardless of their circumstances. Your donation can make a significant impact on food security and the overall well-being of our neighbors. We believe that everyone deserves a balanced and healthy diet, and with your support, we can work towards making this a reality. Join us in our mission to reduce hunger, promote good nutrition, and create a healthier, more vibrant community. Your contribution will help provide meals, education on healthy eating, and resources to those in need, transforming lives and fostering a sense of belonging and hope. Together, we can build a future where no one goes to bed hungry. Your support matters!",
+    "Donation_Amount": 290
+  },
+  {
+    "id": 9,
+    "Picture": "https://i.ibb.co/HFK3mJy/Healthcare-Access.jpg",
+    "Title": "Healthcare Access",
+    "Category": "Health",
+    "Category_bg": "rgba(0,82,255,0.2)",
+    "Card_bg": "rgba(0,82,255,0.15)",
+    "Text_color": "#0052FF",
+    "Description": "Ensuring healthcare access for all is crucial for the well-being of our community. Many individuals face barriers to receiving essential medical care, and your support can help break down these barriers. Your donation will enable us to expand access to healthcare services, especially for those who are underserved and vulnerable. We believe that everyone deserves the right to quality healthcare, regardless of their background or financial situation. By contributing to this cause, you're saving lives and creating a healthier community. Together, we can make a lasting impact on healthcare access, ensuring that no one is left behind. Your support matters!",
+    "Donation_Amount": 170
+  },
+  {
+    "id": 10,
+    "Picture": "https://i.ibb.co/17SJ9kM/Empowering-Young-Minds.jpg",
+    "Title": "Empowering Young Minds",
+    "Category": "Education",
+    "Category_bg": "rgba(255,68,74,0.2)",
+    "Card_bg": "rgba(255,68,74,0.15)",
+    "Text_color": "#FF444A",
+    "Description": "Empowering young minds with education and opportunities is a noble cause that can shape the future of our community. Your generous donation can provide essential educational resources and mentorship to underprivileged students, helping them excel in their studies and pursue their dreams. By supporting this cause, you become a catalyst for change, enabling these young individuals to overcome obstacles and reach their full potential. Education not only empowers young minds but also uplifts entire communities, fostering growth, innovation, and a brighter future for all. Join us in shaping the future leaders of our community and making a lasting impact. Your support matters greatly and can create a legacy of empowerment that will be felt for generations to come.",
+    "Donation_Amount": 350
+  },
+  {
+    "id": 11,
+    "Picture": "https://i.ibb.co/qjMxJ6v/Winter-Essentials.jpg",
+    "Title": "Winter Essentials",
+    "Category": "Clothing",
+    "Category_bg": "rgba(121,194,63,0.2)",
+    "Card_bg": "rgba(121,194,63,0.15)",
+    "Text_color": "#79C23F",
+    "Description": "Ensure that no one goes cold this winter and be a source of warmth and comfort. Winter can be incredibly challenging for individuals without access to proper clothing. Your generous donation will help us provide warm clothing, blankets, and other essentials to those in need during the cold months. By contributing to this cause, you're offering a lifeline to vulnerable individuals, helping them face the winter with dignity and warmth. Join us in making a difference in the lives of those struggling to stay warm. Your support matters, and together, we can ensure that everyone stays safe and comfortable in the harshest of winters, making our community a warmer place for all.",
+    "Donation_Amount": 125
+  },
+  {
+    "id": 12,
+    "Picture": "https://i.ibb.co/pZnsMzq/Food-Security.jpg",
+    "Title": "Food Security",
+    "Category": "Food",
+    "Category_bg": "rgba(248,113,71,0.2)",
+    "Card_bg": "rgba(248,113,71,0.15)",
+    "Text_color": "#F87147",
+    "Description": "Support our mission to ensure food security for every member of our community. Food security means that everyone has consistent access to enough nutritious food to lead a healthy and active life. Your donation can make a lasting impact on this critical issue. With your support, we can establish food security programs that provide meals, groceries, and assistance to families and individuals struggling to put food on the table.\n\nHunger is a persistent problem in our society, and it affects people from all walks of life. Your contribution can be the difference between an empty stomach and a nourished body. By contributing to this cause, you're becoming a vital part of the solution to hunger in our community. Together, we can create a hunger-free and more prosperous community where no one goes to bed hungry.\n\nYour support matters! Join us in the fight against hunger and be a beacon of hope for those in need. Help us build a future where food security is a reality for everyone, and together, we can make our community stronger and healthier.",
+    "Donation_Amount": 240
+  }
+]
