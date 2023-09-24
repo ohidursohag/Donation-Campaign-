@@ -1,6 +1,6 @@
 const HomePageBanner = () => {
    return (
-      <section className='min-h-screen banner flex justify-center items-center'>
+      <section className='min-h-screen banner flex justify-center items-center mb-[50px] lg:mb-[100px]'>
          <div>
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center px-2">I Grow By <br className="md:hidden" /> Helping People In Need</h1>
 
