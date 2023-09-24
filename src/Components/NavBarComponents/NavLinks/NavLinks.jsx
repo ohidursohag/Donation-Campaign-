@@ -11,8 +11,7 @@ const NavLinks = () => {
                {
                      isShowNavLinks ? <AiOutlineClose /> : <AiOutlineMenu />
                }
-            </button>
-            
+            </button>          
          </div>     
          <ul className={`text-lg xl:text-xl font-medium absolute md:static duration-1000  ${isShowNavLinks ? 'top-10 right-0' :' -top-[300px] right-0'}  space-y-2 md:space-y-0  text-right md:text-start  pr-1 pb-5 md:p-0 md:flex md:gap-5 lg:gap-10`}>
          <li>
