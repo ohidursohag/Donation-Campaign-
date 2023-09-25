@@ -11,3 +11,8 @@
   background-size: cover;
   background-blend-mode: overlay;
 }
+
+.image-overlay {
+  background-image: black;
+  background-blend-mode: overlay;
+}
