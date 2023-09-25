@@ -29,7 +29,7 @@ const DonationPage = () => {
                showDonatedData.length? isShow
                   ? showDonatedData.map((donatedData) => <DonatedCard key={donatedData.id} donatedData={donatedData}></DonatedCard>)
                   : showDonatedData.slice(0, 4).map((donatedData) => (<DonatedCard key={donatedData.id} donatedData={donatedData}></DonatedCard>))
-                  : <div className="text-2xl font-bold flex justify-center items-center mx-auto min-h-[700px]">You do not make any donation yet!!</div>
+                  : <div className="text-2xl font-bold flex justify-center items-center mx-auto min-h-[700px]">You have not make any donation yet!!</div>
             }
          </div>
             <div className="text-center mt-5">
