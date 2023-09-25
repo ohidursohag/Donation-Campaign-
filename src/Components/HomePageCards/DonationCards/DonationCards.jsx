@@ -13,6 +13,7 @@ const DonationCards = () => {
          {
             cardsData?.map(cardData => <DonationCard key={cardData.id} cardData={cardData}></DonationCard>)
          }
+         
       </div>
    );
 };
