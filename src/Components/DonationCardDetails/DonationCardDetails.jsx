@@ -11,13 +11,22 @@ const DonationCardDetails = ({ targetDonationCardData }) => {
       const isExist = savedDonatedDataId.find(savedId => savedId === id);
 
       if (isExist) {
-         alert('You Alredy Donated here')
-         
+         Swal.fire({
+            position: 'center',
+            icon: 'error',
+            title: 'Alredy Donated',
+            showConfirmButton: false,
+            timer: 1000
+         })
       } else {
          SaveDonationData(id)        
-         alert('Donation Successfull')
-
-        
+         Swal.fire({
+            position: 'center',
+            icon: 'success',
+            title: 'Donation Successfull',
+            showConfirmButton: false,
+            timer: 1000
+         })
       }
    }
 
