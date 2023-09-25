@@ -21,7 +21,8 @@ const myCreatedRoutes = createBrowserRouter([
          },
          {
             path: '/donation',
-            element:<DonationPage></DonationPage>,
+            element: <DonationPage></DonationPage>,
+            loader: () => fetch('/donationData.json'),
          },
          {
             path: '/statistics',

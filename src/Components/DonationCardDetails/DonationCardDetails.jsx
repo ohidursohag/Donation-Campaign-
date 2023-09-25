@@ -6,11 +6,9 @@ const DonationCardDetails = ({ targetDonationCardData }) => {
    const {id, Picture, Donation_Amount, Text_color, Title, Description } = targetDonationCardData || {}
    
    const handleDonation = () => {
-      const savedDonationDataId = getStoredDonationData()
+      const savedDonatedDataId = getStoredDonationData()
 
-      const isExist = savedDonationDataId.find(savedId => savedId === id);
-      console.log(isExist);
-      console.log(savedDonationDataId);
+      const isExist = savedDonatedDataId.find(savedId => savedId === id);
 
       if (isExist) {
          alert('You Alredy Donated here')
@@ -18,7 +16,6 @@ const DonationCardDetails = ({ targetDonationCardData }) => {
          SaveDonationData(id)        
          alert('Donation Successfull')
       }
-
    }
 
    return (

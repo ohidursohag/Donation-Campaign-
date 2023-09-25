@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const DonationCard = ({ cardData }) => {
    const {id, Picture, Text_color, Title, Card_bg, Category, Category_bg ,} = cardData || {}
-   console.log(cardData);
+   // console.log(cardData);
    return (
       <Link to={`/donation-details/${id}`} style={{ backgroundColor: `${Card_bg}`, color: `${Text_color}`}}
          className='max-w-[360px] sm:w-[300px] md:w-[350px] lg:w-[315px] xl:w-[300px] 2xl:w-[355px]  rounded-xl'>

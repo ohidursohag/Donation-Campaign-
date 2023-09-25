@@ -9,7 +9,6 @@ const getStoredDonationData = () => {
 
 const SaveDonationData = (id) => {
    const StoredDonationData = getStoredDonationData();
-   console.log(StoredDonationData);
    StoredDonationData.push(id);
    localStorage.setItem('DonationData', JSON.stringify(StoredDonationData))
 }
