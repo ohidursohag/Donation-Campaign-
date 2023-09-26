@@ -14,7 +14,6 @@ const DonationPage = () => {
       if (getSavedDonationIds.length) {
          const donatedData = allDonationData.filter(donationData => getSavedDonationIds.includes(donationData.id))
          setShowDonatedData(donatedData)
-         console.log(allDonationData, getSavedDonationIds, donatedData);
       }     
    }, [allDonationData])
 

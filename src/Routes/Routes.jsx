@@ -4,16 +4,19 @@ import DonationPage from "../Pages/Donation/DonationPage";
 import StatisticsPage from "../Pages/Statistics/StatisticsPage";
 import MainLayouts from "../Layouts/MainLayouts";
 import DonationCardDetailsPage from "../Pages/DonationCardDetailsPage/DonationCardDetailsPage";
+import ErrorHandlePage from "../Pages/ErrorHandlePage/ErrorHandlePage";
 
 const myCreatedRoutes = createBrowserRouter([
    {
       path: '/',
       element: <MainLayouts></MainLayouts>,
+      errorElement: <ErrorHandlePage></ErrorHandlePage>,
       children: [
          {
             path: '/',
             element: <HomePage></HomePage>,
             loader: () => fetch('/donationData.json'),
+            
          },
          {
             path: '/donation-details/:id',

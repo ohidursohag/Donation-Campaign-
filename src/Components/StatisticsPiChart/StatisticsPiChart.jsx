@@ -5,12 +5,9 @@ const COLORS = ['rgba(255,68,74,1)', 'rgba(0,196,159,1)'];
 const RADIAN = Math.PI / 180;
 
 const renderCustomizedLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, percent}) => {
-   console.log(percent, midAngle, innerRadius, outerRadius);
    const radius = innerRadius + (outerRadius - innerRadius) * .5;
-   // console.log(radius);
    const x = cx + radius * Math.cos(-midAngle * RADIAN);
    const y = cy + radius * Math.sin(-midAngle * RADIAN);
-   console.log(x,y);
 
    return (
       <text x={x} y={y} fill="white" className={`${percent>0 ? '': 'hidden'}`} fontSize={18} fontWeight={700} textAnchor={x > cx ? 'start' : 'end'} dominantBaseline="central">
@@ -19,7 +16,6 @@ const renderCustomizedLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, per
    );
 };
 const StatisticsPiChart = ({ totalDonatedData, allDonationData }) => {
-   console.log(totalDonatedData, allDonationData);
    const data = [
       { name: 'Total Donation', value: allDonationData - totalDonatedData  },
       { name: 'Your Donation', value: totalDonatedData },

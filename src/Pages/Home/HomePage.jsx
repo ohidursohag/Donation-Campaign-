@@ -8,7 +8,6 @@ const HomePage = () => {
    const [diplayCardData, setDiplayCardData] = useState()
    const [query, setQuery] = useState("")
    const allAardsData = useLoaderData()
-   console.log(allAardsData);
 
    useEffect(() => {
       setDiplayCardData(allAardsData)
@@ -29,7 +28,6 @@ const HomePage = () => {
                showConfirmButton: false,
                timer: 1500
             })
-            // setDiplayCardData(allAardsData)
             setQuery('')
          }
       } else {
