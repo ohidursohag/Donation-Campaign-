@@ -6,7 +6,7 @@ const MainLayouts = () => {
    return (
       <div className="font-[Inter,sans-serif] ">
          <NavBar></NavBar>
-         <div className="flex justify-center items-center -z-20">
+         <div >
             {
                navigation.state === 'loading' ? <LoadingAnimation /> : <Outlet></Outlet>
             }
