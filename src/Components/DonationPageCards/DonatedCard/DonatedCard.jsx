@@ -15,7 +15,7 @@ const DonatedCard = ({ donatedData }) => {
             <h2 className='text-2xl font-bold'>{Title}</h2>
             <p style={{ color: `${Text_color}` }} className='font-semibold'>${parseFloat(Donation_Amount).toFixed(2)}</p>
 
-            <Link to={`/donation-details/${id}`}>
+            <Link to={`/donation-details/${id}`} state={Title}>
             <button 
                style={{ backgroundColor: `${Text_color}` }} className={`px-3 py-2 md:py-3 md:px-5 xl:px-7 xl:py-4 rounded-md text-white   md:text-xl font-semibold mt-5`}>View Details</button>
             </Link>
